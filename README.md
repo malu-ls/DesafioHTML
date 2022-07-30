@@ -1,4 +1,4 @@
-# DesafioHTML
+# Desafios HTML
 
 Desafios HTML proposto pela plataforma Rocketseat.
 
